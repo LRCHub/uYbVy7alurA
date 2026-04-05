@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "HEARTLOUD",
+  "base_artist": "Kis-My-Ft2",
+  "createdAt": "2026-04-05T16:02:05.170641Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HEARTLOUD",
+      "artist": "Kis-My-Ft2",
+      "has_synced": false,
+      "path": "select/pl_01_HEARTLOUD_Kis-My-Ft2.txt"
+    }
+  ]
+}
